@@ -16,3 +16,6 @@ int main(){
      int arr[5]= {1,2,3,4,2};
      removeduplicates(arr, 5);
 }
+
+
+// using two pointers approach 
